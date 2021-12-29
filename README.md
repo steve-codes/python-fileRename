@@ -10,6 +10,7 @@ Say you are tasked with changing the names of many PDF files by replacing a pori
 For example:
 
 Current pdf name: TEST-INC_2020_02
+
 Target pdf name:  DAVE-INC_2020_02
 
 This script is able to change the "TEST-INC" porition of the name with "DAVE-INC" while keeping "2020_02" porition.
